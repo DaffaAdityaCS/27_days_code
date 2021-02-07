@@ -24,6 +24,6 @@ def donwload():
     print("Donwloading..")
     urllib.request.urlretrieve(url, name)
     print("Donwload Done")
-#infinite loop donwload
+
 
 donwload()
